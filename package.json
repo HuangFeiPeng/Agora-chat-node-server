@@ -1,0 +1,14 @@
+{
+  "name": "agora_chat_server",
+  "version": "1.0.0",
+  "description": "agora chat app server",
+  "main": "app.js",
+  "author": "NeoHuang",
+  "license": "MIT",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
